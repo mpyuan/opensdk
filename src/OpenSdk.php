@@ -34,3 +34,7 @@ include(CURRENT_FILE_DIR.DS."loader".DS."FileMap.php");
 include(CURRENT_FILE_DIR.DS."loader".DS."QmLoader.php");
 
 
+$loader  = new QmLoader;
+$loader  -> autoload_path  = array(CURRENT_FILE_DIR.DS."client");
+$loader  -> init();
+$loader  -> autoload();
