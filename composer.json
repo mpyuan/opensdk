@@ -4,7 +4,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "opensdk\\qianmi\\":"src/"
+            "OpenSdkQianMi\\":"src/"
         }
     }
 }
