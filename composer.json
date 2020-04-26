@@ -2,6 +2,14 @@
     "name": "open-sdk-qianmi/qm-open",
     "description": "千米SDK",
     "require": {},
+    "license"    : "GPL-1.0+",
+    "authors"    : [
+        {
+            "name"    : "mpyuan",
+            "email"   : "1424246110@qq.com",
+            "homepage": "http://www.mpyone.cn"
+        }
+    ],
     "autoload":{
         "files":["src/OpenSdk.php"]
     }
