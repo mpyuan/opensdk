@@ -1,5 +1,5 @@
 {
-    "name": "open-sdk/qm-open",
+    "name": "open-sdk-qianmi/qm-open",
     "description": "千米SDK",
     "require": {},
     "autoload":{
