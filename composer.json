@@ -3,8 +3,6 @@
     "description": "千米SDK",
     "require": {},
     "autoload":{
-        "psr-4":{
-            "OpenSdkQianMi\\":"src/"
-        }
+        "files":["src/OpenSdk.php"]
     }
 }
