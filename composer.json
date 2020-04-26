@@ -1,0 +1,10 @@
+{
+    "name": "opensdk/qianmi",
+    "description": "千米SDK",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "opensdk\\":"src/"
+        }
+    }
+}
