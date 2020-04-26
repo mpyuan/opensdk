@@ -14,7 +14,7 @@ class QmLoader {
     public $autoload_path = array();
 
     //目录存储功能（默认开启）
-    public $open_local_storage = true;
+    public $open_local_storage = false;
 
     //本地存储类
     protected $file_map;
